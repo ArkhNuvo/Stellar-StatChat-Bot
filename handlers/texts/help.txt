@@ -1,0 +1,4 @@
+<b>Short Instruction: </b>
+    1. Load a .csv file.
+    2. Select a column.
+    3. Choose a metric for this column.

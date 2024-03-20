@@ -1,0 +1,27 @@
+ <b>Bot Information</b> 
+   I'll help you to meet your data that you have on your phone or PC due to your work or other circumstances. I will assist you in familiarizing yourself with this data if it is in .CSV format. My functions include quite a diverse inventory of various tools for preliminary analysis. I hope I will be helpful to you!
+   In my Creator's mind are some ideas:
+   VERSION 0.1 alfa
+   <s>1.File uploading</s>
+   <s>2.Make list of columns (countion of columns, data types, etc)</s>
+   <s>3.Inline bottoms creation</s>
+   <s>4.Buttoms for every column</s>
+   <s>5.Showing results creation</s>
+
+   Other Features:
+   - <s>List of uploaded files and posibility of selection for analyze</s>
+   - <s>Make visualisations</s>
+   - <s>Make more visualisations (Distributions (Sampling))</s>
+   - <s>Make them professional</s> 
+   - <s>Translate bot into English</s>
+   - <s>Bot Messsage Formatting</s>
+   -    
+   -    
+
+
+   VERSION 0.1 beta (Theretically) Econometry Box
+   -    Two or more columns analysing
+   -    Linear Regressions
+   -    Simple econometrics
+   -    Implement hypothesis tests for one column (one-sided or two-sided with parameters management)
+   -    Think about null-data formatting depending on data types
